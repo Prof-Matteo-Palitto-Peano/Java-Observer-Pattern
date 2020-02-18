@@ -1,4 +1,11 @@
 # Java-Observer-Pattern
+
+I want to do something like this in Java but I don't know the way:
+
+When "object 1" say 'hello', then "object 2" responds to that event by saying "hello".
+
+Can somebody give me a hint or sample code?
+
 ```java
 import java.util.*;
 
