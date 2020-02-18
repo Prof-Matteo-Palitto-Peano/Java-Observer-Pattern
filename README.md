@@ -1,5 +1,5 @@
 # Java-Observer-Pattern
-
+```java
 import java.util.*;
 
 // An interface to be implemented by everyone interested in "Hello" events
@@ -42,5 +42,5 @@ class Test {
         initiater.sayHello();  // Prints "Hello!!!" and "Hello there..."
     }
 }
-
+```
 https://www.baeldung.com/java-observer-pattern
